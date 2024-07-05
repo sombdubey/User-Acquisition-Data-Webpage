@@ -41,9 +41,11 @@ To run the project locally:
    cd myTokri_assignment
    
 2. **Install Dependencides**:
+   ```bash
    npm install
 
-3. **Start a local HTTP Server**:
+4. **Start a local HTTP Server**:
+   ```bash
    npm install -g http-server   # Install http-server if not already installed
    http-server                  # Start the server
 
