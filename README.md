@@ -37,5 +37,18 @@ To run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sombdubey/user-acquisition.git
-   cd user-acquisition  
+   git clone https://github.com/sombdubey/User-Acquisition-Data-Webpage.git
+   cd myTokri_assignment
+   
+2. **Install Dependencides**:
+   npm install
+
+3. **Start a local HTTP Server**:
+   npm install -g http-server   # Install http-server if not already installed
+   http-server                  # Start the server
+
+
+## Future Enhancements
+ Implement real-time data fetching from an actual API endpoint.
+ Improve error handling and user feedback.
+   
