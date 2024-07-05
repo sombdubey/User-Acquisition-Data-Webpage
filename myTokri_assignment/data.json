@@ -1,0 +1,16 @@
+{
+  "Error": 1,
+  "Description": "Global Error",
+  "MessageToShow": "Sorry, an error occurred ,you cannot subscribe to this service at this moment, please try again later.",
+  "SessionID": "",
+  "Scheme": "",
+  "NextAction": {
+    "Action": 7,
+    "Name": "Close"
+  },
+  "Payout": {
+    "isNetworkConverted": false,
+    "Rate": 0,
+    "Currency": ""
+  }
+}
